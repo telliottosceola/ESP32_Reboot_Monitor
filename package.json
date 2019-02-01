@@ -1,0 +1,14 @@
+{
+  "name": "esp32_reboot_monitor",
+  "version": "1.0.0",
+  "description": "read the title",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trav",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^7.1.3"
+  }
+}
